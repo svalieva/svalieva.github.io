@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;}
+body{
+    background: lightgrey;
+    width: 100%;}
+
+.intro {
+    margin: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.about{
+    margin: 15px;}
+
+.classes{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+}
+ul{
+    list-style: none;
+    margin: 20px;
+}
+li{
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.interests{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.books{
+    margin-right: 50px;
+}
+img{
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+}
+.mood{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.images{
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.img{
+    margin: 50px;
+}
+.neighbour{
+    margin: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.sayora{
+    margin: 15px;
+}
